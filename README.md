@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Veeramurali T</h1>
 <h3 align="center">Engineering student | Python & ML Enthusiast | Web Developer | Passionate about AI-driven solutions & Database Systems | Building projects in Data Science, Automation & Web Development</h3>
 
-- 🔭 I’m currently working on *AI-Powered Workflow Automation App*
+- 🔭 I’m currently working on *optimizing my workflow for maximum efficiency*
 
-- 🌱 I’m currently learning *Django, Flask, Advanced Machine Learning Models*
+- 🌱 I’m currently learning *how to streamline automation processes in real-time applications*
 
-- 👯 I’m looking to collaborate on *Machine Learning Projects*
+- 👯 I’m looking to collaborate on *innovative AI solutions that solve practical problems*
 
-- 🤝 I’m looking for help with *AI-Based Inventory Management System*
+- 🤝 I’m looking for help with *exploring advanced algorithms for data-driven decision making*
 
 - 👨‍💻 All of my projects are available at [https://github.com/Veeramurali](https://github.com/Veeramurali)
 
@@ -17,7 +17,7 @@
 
 - 📄 Know about my experiences [https://acrobat.adobe.com/id/urn:aaid:sc:AP:c8bc1c43-4c40-48c7-a79e-98632d3eaee4](https://acrobat.adobe.com/id/urn:aaid:sc:AP:c8bc1c43-4c40-48c7-a79e-98632d3eaee4)
 
-- ⚡ Fun fact *I love combining tech solutions with real-world problems and learning new things!*
+- ⚡ Fun fact *I enjoy debugging as much as writing code—turning challenges into solutions is always exciting!*
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

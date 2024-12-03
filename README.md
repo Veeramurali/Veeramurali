@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Veeramurali](https://github.com/Veeramurali)
 
-- 💬 Ask me about *Python, Machine Learning, Web Development (Django, Flask)*
+- 💬 Ask me about *Python, Machine Learning.
 
 - 📫 How to reach me *veeramuralit@gmail.com*
 
